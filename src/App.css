@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+}
+
+.row {
+  display: flex;
+  margin-left: 5%;
+  margin-right: 5%;
+  margin-top: 20px;
+}
+
+.another-row {
+  padding: 20px;
+  box-shadow: rgb(161, 161, 161) 2px 5px 7px;
+  background-color: rgb(39, 144, 235);
+  color: white;
+  margin-left: 2%;
+  max-width: 200px;
+}
